@@ -1,0 +1,5 @@
+Sentiment Analysis for Customer Feedback
+
+Classifies customer feedback as positive, negative, or neutral and provides a dashboard.
+
+See README.md for setup and PROJECT_REPORT.md for documentation.
